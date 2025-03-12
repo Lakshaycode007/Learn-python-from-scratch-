@@ -1,0 +1,6 @@
+# Q1 Even or Odd:
+Num = int(input("Enter the number to check even or odd  "))
+if Num % 2 == 0:
+    print(f"number is even {Num}")
+else:
+    print(f"number is odd {Num}")
